@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @https-abhishek
+- 👀 I’m interested in Web & Mobile App Development
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Web & Mobile App Development
+- 📫 How to reach me: via email kontakt@abhishek.pl
